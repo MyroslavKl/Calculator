@@ -1,0 +1,17 @@
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\bin\Debug\net6.0-windows\CalculatorNew.exe
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\bin\Debug\net6.0-windows\CalculatorNew.deps.json
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\bin\Debug\net6.0-windows\CalculatorNew.runtimeconfig.json
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\bin\Debug\net6.0-windows\CalculatorNew.dll
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\bin\Debug\net6.0-windows\CalculatorNew.pdb
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.csproj.AssemblyReference.cache
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.Form1.resources
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.csproj.GenerateResource.cache
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.AssemblyInfoInputs.cache
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.AssemblyInfo.cs
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.csproj.CoreCompileInputs.cache
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.dll
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\refint\CalculatorNew.dll
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.pdb
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\CalculatorNew.genruntimeconfig.cache
+C:\Users\Myroslav\Desktop\C#\CalculatorNew\CalculatorNew\obj\Debug\net6.0-windows\ref\CalculatorNew.dll
